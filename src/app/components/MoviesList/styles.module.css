@@ -1,0 +1,11 @@
+.wrapper {
+    text-align: center;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+    margin: 20px 0;
+}

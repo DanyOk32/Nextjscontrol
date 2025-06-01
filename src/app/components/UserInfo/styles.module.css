@@ -1,0 +1,16 @@
+.user {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.avatar {
+    width: 32px;
+    height: 32px;
+    background-color: #aaa;
+    border-radius: 50%;
+}
+
+.name {
+    font-weight: 500;
+}
